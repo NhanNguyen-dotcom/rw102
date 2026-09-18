@@ -1,5 +1,5 @@
 import java.time.LocalDate;
-import java.util.Arrays;
+import java.time.LocalDateTime;
 
 public class Exam {
     int id;
@@ -8,6 +8,6 @@ public class Exam {
     CategoryQuestion category;
     int duration;
     Account creator;
-    LocalDate createDate;
+    LocalDateTime createDate;
     Question[] questions;
 }
