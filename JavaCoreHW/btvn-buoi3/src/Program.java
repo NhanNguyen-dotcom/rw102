@@ -120,97 +120,99 @@ public class Program {
         Exam[] exams = {exam1, exam2, exam3};
 
         //Q16-10:
-        System.out.println("========Q16-10=========");
-        Exercise1.question10(accounts);
+//        System.out.println("========Q16-10=========");
+//        Exercise1.question10(accounts);
+//
+//        //Q16-11:
+//        System.out.println("========Q16-11=========");
+//        Exercise1.question11(departments);
+//
+//        //Q16-12:
+//        System.out.println("========Q16-12=========");
+//        Exercise1.question12(departments);
+//
+//        //Q16-13:
+//        System.out.println("========Q16-13=========");
+//        Exercise1.question13(accounts);
+//
+//        //Q16-14:
+//        System.out.println("========Q16-14=========");
+//        Exercise1.question14(accounts);
+//
+//        //Q16-15:
+//        System.out.println("========Q16-15=========");
+//        Exercise1.question15();
+//
+//        //Q17-10:
+//        System.out.println("========Q17-10=========");
+//        Exercise1.question17_10(accounts);
+//
+//        //Q17-11:
+//        System.out.println("========Q17-11=========");
+//        Exercise1.question17_11(departments);
+//
+//        //Q17-12:
+//        System.out.println("========Q17-12=========");
+//        Exercise1.question17_12(departments);
+//
+//        //Q17-13:
+//        System.out.println("========Q17-13=========");
+//        Exercise1.question17_13(accounts);
+//
+//        //Q17-14:
+//        System.out.println("========Q17-14=========");
+//        Exercise1.question17_14(accounts);
+//
+//        //Q17-15:
+//        System.out.println("========Q17-15=========");
+//        Exercise1.question17_15();
+//
+//        //E2-1:
+//        System.out.println("========E2-1=========");
+//        Exercise2.question1();
+//
+//        //E2-2:
+//        Exercise2.question2();
+//        Exercise2.question3();
+//        Exercise2.question4();
+//        Exercise2.question5();
+//        Exercise2.question6(accounts);
+//
+//        //E3:
+//        Exercise3.question1(exam3);
+//        Exercise3.question2(exams);
+//        Exercise3.question3(exams);
+//        Exercise3.question4(exams);
+//        Exercise3.question5(exams);
+//
+//        //E4:
+//        Exercise4.question1();
+//        Exercise4.question2();
+//        Exercise4.question3();
+//        Exercise4.question4();
+//        Exercise4.question5();
+//        Exercise4.question6();
+//        Exercise4.question7();
+//
+//        //E5:
+//        Exercise5.question1();
+//        Exercise5.question2();
+//        Exercise5.question3();
+//        Exercise5.question4();
+//        Exercise5.question5();
+//        Exercise5.question6();
+//        Exercise5.question7();
+//        Exercise5.question8();
+//        Exercise5.question9();
+//        Exercise5.question10();
+//        Exercise5.question11();
+//
+//        //E6:
+//        Exercise6.question1();
+//        Exercise6.question2(accounts);
+//        Exercise6.question3();
 
-        //Q16-11:
-        System.out.println("========Q16-11=========");
-        Exercise1.question11(departments);
-
-        //Q16-12:
-        System.out.println("========Q16-12=========");
-        Exercise1.question12(departments);
-
-        //Q16-13:
-        System.out.println("========Q16-13=========");
-        Exercise1.question13(accounts);
-
-        //Q16-14:
-        System.out.println("========Q16-14=========");
-        Exercise1.question14(accounts);
-
-        //Q16-15:
-        System.out.println("========Q16-15=========");
-        Exercise1.question15();
-
-        //Q17-10:
-        System.out.println("========Q17-10=========");
-        Exercise1.question17_10(accounts);
-
-        //Q17-11:
-        System.out.println("========Q17-11=========");
-        Exercise1.question17_11(departments);
-
-        //Q17-12:
-        System.out.println("========Q17-12=========");
-        Exercise1.question17_12(departments);
-
-        //Q17-13:
-        System.out.println("========Q17-13=========");
-        Exercise1.question17_13(accounts);
-
-        //Q17-14:
-        System.out.println("========Q17-14=========");
-        Exercise1.question17_14(accounts);
-
-        //Q17-15:
-        System.out.println("========Q17-15=========");
-        Exercise1.question17_15();
-
-        //E2-1:
-        System.out.println("========E2-1=========");
-        Exercise2.question1();
-
-        //E2-2:
-        Exercise2.question2();
-        Exercise2.question3();
-        Exercise2.question4();
-        Exercise2.question5();
-        Exercise2.question6(accounts);
-
-        //E3:
-        Exercise3.question1(exam3);
-        Exercise3.question2(exams);
-        Exercise3.question3(exams);
-        Exercise3.question4(exams);
-        Exercise3.question5(exams);
-
-        //E4:
-        Exercise4.question1();
-        Exercise4.question2();
-        Exercise4.question3();
-        Exercise4.question4();
-        Exercise4.question5();
-        Exercise4.question6();
-        Exercise4.question7();
-
-        //E5:
-        Exercise5.question1();
-        Exercise5.question2();
-        Exercise5.question3();
-        Exercise5.question4();
-        Exercise5.question5();
-        Exercise5.question6();
-        Exercise5.question7();
-        Exercise5.question8();
-        Exercise5.question9();
-        Exercise5.question10();
-        Exercise5.question11();
-
-        //E6:
-        Exercise6.question1();
-        Exercise6.question2(accounts);
-        Exercise6.question3();
+        Exercise5.questionDemo();
     }
 
 
